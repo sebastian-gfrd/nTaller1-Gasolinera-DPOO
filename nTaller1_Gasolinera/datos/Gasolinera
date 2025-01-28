@@ -1,0 +1,13 @@
+tipo:ACPM:25000:10000.0
+tipo:Corriente:16500:10000.0
+tipo:Bio-diesel:10000:5000.0
+tipo:Diesel:20000:10000.0
+surtidor:Frederic Bastiat:ACPM:0.0:Corriente:0.0:Bio-diesel:0.0:Diesel:0.0
+surtidor:Sundar Pichai:ACPM:0.0:Corriente:0.0:Bio-diesel:0.0:Diesel:0.0
+surtidor:Elon Musk:ACPM:0.0:Corriente:0.0:Bio-diesel:0.0:Diesel:0.0
+surtidor:Sundar Pichai:ACPM:0.0:Corriente:0.0:Bio-diesel:0.0:Diesel:0.0
+empleado:Frederic Bastiat:0
+empleado:Tim Cook:0
+empleado:Jensen Hwang:0
+empleado:Sundar Pichai:0
+empleado:Elon Musk:0
